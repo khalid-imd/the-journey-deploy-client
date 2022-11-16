@@ -1,0 +1,36 @@
+.bookmark {
+  width: 184px;
+  height: 66px;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+}
+
+.title-card {
+  width: 270px;
+  height: 22px;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.date-card {
+  width: 106px;
+  height: 15px;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: #bfbfbf;
+}
+
+.desc-card {
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+
+  color: #6c6c6c;
+}
